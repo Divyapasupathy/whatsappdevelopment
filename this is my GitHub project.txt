@@ -4,6 +4,9 @@ whatapp development
 
 phonecall
 
+
+hiding the profile picture
+
 sharing pictures
 
 sharing videos
