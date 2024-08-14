@@ -9,3 +9,7 @@ sharing pictures
 sharing videos
 
 voice call
+
+
+hiding the last seen
+
