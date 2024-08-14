@@ -16,3 +16,6 @@ voice call
 
 hiding the last seen
 
+adding money tranfer 
+
+limit is 2000 per day
